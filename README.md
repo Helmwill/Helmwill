@@ -1,7 +1,7 @@
 # WIll Harris
 
 ## About Me
-I'm a seasoned chef turned software engineer, passionate about crafting code and building innovative solutions. After successfully completing the Imperial College/Hyperion Dev bootcamp in December 2023, I am currently honing my skills further through the IBM Full Stack Software Developer courses. My expertise lies in Python development, SQLite databases, and creating user interfaces with Tkinter.
+I'm a chef turned software engineer, passionate about crafting code and building innovative solutions. After successfully completing the Imperial College/Hyperion Dev bootcamp in December 2023, I am currently honing my skills further through the IBM Full Stack Software Developer courses. My expertise lies in Python development, SQLite databases, and creating user interfaces with Tkinter.
 
 ## Skills
 - **Programming Languages:** Python
